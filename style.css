@@ -5,3 +5,9 @@ p{
     font-size: 25px;
     color: red;
 }
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
